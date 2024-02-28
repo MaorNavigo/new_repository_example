@@ -1,5 +1,1 @@
-
-
-
-if __name__ == "__main__":
-    print('hcccello')
+print("Hey from changes")
